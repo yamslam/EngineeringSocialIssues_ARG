@@ -6,17 +6,22 @@ This project is run as part of Rowan Univeristy's sophomore engineering clinic 1
 
 There are two modules to this project: 1) materials testing and 2) design-build-test of an autonomous robotic vehicle. In the first module, students complete a series of materials testing on various elastomers and plastics to determine the material properties.  The tested materials included student-made silicone rubber, shore 95A thermoplastic polyurethane (TPU), and polylactic acid (PLA). After completing the materials testing, students were asked to determine the yield strength, Young's modulus, and stress/strain behavior of the material. The results of this test help inform students on some of their design choices for the second module. The results of this experimental activity were then reported in a scientific IMRaD (Introduction, Methods, Results and Discussion) style report written by student teams (3-4 students). 
 
+<p align="center">
 <img src= "https://github.com/user-attachments/assets/d6edbe50-02be-4e50-9743-03c9766e05bf" width="250" height="400">
+</p>
 
 The second module was the design-build-test part of this project. Students were told they were competing for a contract with a company called "Meals on Mini Wheels". The company was interested in finding a group of talented engineering students to design a autonomous food delivery robot for Rowan's campus; the winning team would get the contract. The product would deliver meals to hungry students on campus wherever they were at any time of day, helping to combat the social issue of food insecurity among the college student population. Student teams were provided with the chassis shell and were tasked with designing 1) all terrain tires that could replace a formal suspension system, and 2) the circuitry and logic for autonomous drop off. To complete the first deliverable, students completed a parametric design cycle for the vehicle’s tires. Students were encouraged to think about how the treads of the tires could contribute to the vehicles’ overall ride dynamics. Groups could choose to make their tires out of any of the tested materials from the previous module of the project (silicone, TPU, or PLA). The designs were then tested for performance using an accelerometer to measure roll (rotation about x), pitch (rotation about y), and ride (acceleration along z). 
 
+<p align="center">
 <img src= "https://github.com/user-attachments/assets/4d71e5f6-6cd7-4904-b1d1-ccd21cf03a1f" width="250" height="250">
 <img src= "https://github.com/user-attachments/assets/c07a2daa-8049-4fc6-b485-c0538bcdb585" width="350" height="250">
+</p>
 
 Concurrently, student groups were working on the autonomous driving circuit for the vehicle. Student teams were able to “purchase” up to 3 sensors for their car. Available to them were sonar sensors and infrared (IR) sensors. Sonar sensors detect the distance that another object is from the sensor by sending out a sonic signal and reading the total time that it takes for that signal to be reflected off the object and back to the sensor. IR sensors detect changes in light in a greyscale, meaning that this sensor returns a range of values which translate into colors ranging from pure black to pure white. 
 
+<p align="center">
 <img src= "https://github.com/user-attachments/assets/95eb8190-71e4-4bd0-b290-273b91864b00" width="400" height="300">
-
+</p>
  
 # 👾 Alternate Reality Game (ARG) Overview
 The core mechanic of the ARG for this project centers around the lived experience of the students while working on their teams to complete the project in this course. The loose structure of the game’s narrative allows each student to have their own unique experience and provides autonomy surrounding the choices that they are making in the judgments. The project for this course was designed around a social issue which college students may already be familiar with—food insecurity on college campuses. The motivation for using a social issue relevant to college students was because I believed it would resonate with their personal experiences and immediate concerns, fostering deeper engagement with the project. This project informs students that they are working for a company called “Meals on Mini Wheels”, a company looking to design autonomous, contact-free food delivery robots for Rowan’s campus. 

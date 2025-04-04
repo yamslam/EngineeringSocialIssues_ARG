@@ -15,7 +15,7 @@ The second module was the design-build-test part of this project. Students were 
 
 Concurrently, student groups were working on the autonomous driving circuit for the vehicle. Student teams were able to “purchase” up to 3 sensors for their car. Available to them were sonar sensors and infrared (IR) sensors. Sonar sensors detect the distance that another object is from the sensor by sending out a sonic signal and reading the total time that it takes for that signal to be reflected off the object and back to the sensor. IR sensors detect changes in light in a greyscale, meaning that this sensor returns a range of values which translate into colors ranging from pure black to pure white. 
 
-<img src= "https://github.com/user-attachments/assets/95eb8190-71e4-4bd0-b290-273b91864b00" width="400" height="250">
+<img src= "https://github.com/user-attachments/assets/95eb8190-71e4-4bd0-b290-273b91864b00" width="400" height="300">
 
  
 # 👾 Alternate Reality Game (ARG) Overview

@@ -11,11 +11,11 @@ There are two modules to this project: 1) materials testing and 2) design-build-
 The second module was the design-build-test part of this project. Students were told they were competing for a contract with a company called "Meals on Mini Wheels". The company was interested in finding a group of talented engineering students to design a autonomous food delivery robot for Rowan's campus; the winning team would get the contract. The product would deliver meals to hungry students on campus wherever they were at any time of day, helping to combat the social issue of food insecurity among the college student population. Student teams were provided with the chassis shell and were tasked with designing 1) all terrain tires that could replace a formal suspension system, and 2) the circuitry and logic for autonomous drop off. To complete the first deliverable, students completed a parametric design cycle for the vehicle’s tires. Students were encouraged to think about how the treads of the tires could contribute to the vehicles’ overall ride dynamics. Groups could choose to make their tires out of any of the tested materials from the previous module of the project (silicone, TPU, or PLA). The designs were then tested for performance using an accelerometer to measure roll (rotation about x), pitch (rotation about y), and ride (acceleration along z). 
 
 <img src= "https://github.com/user-attachments/assets/4d71e5f6-6cd7-4904-b1d1-ccd21cf03a1f" width="250" height="250">
-<img src= "https://github.com/user-attachments/assets/c07a2daa-8049-4fc6-b485-c0538bcdb585" width="250" height="250">
+<img src= "https://github.com/user-attachments/assets/c07a2daa-8049-4fc6-b485-c0538bcdb585" width="350" height="250">
 
 Concurrently, student groups were working on the autonomous driving circuit for the vehicle. Student teams were able to “purchase” up to 3 sensors for their car. Available to them were sonar sensors and infrared (IR) sensors. Sonar sensors detect the distance that another object is from the sensor by sending out a sonic signal and reading the total time that it takes for that signal to be reflected off the object and back to the sensor. IR sensors detect changes in light in a greyscale, meaning that this sensor returns a range of values which translate into colors ranging from pure black to pure white. 
 
-<img src= "https://github.com/user-attachments/assets/95eb8190-71e4-4bd0-b290-273b91864b00" width="250" height="250">
+<img src= "https://github.com/user-attachments/assets/95eb8190-71e4-4bd0-b290-273b91864b00" width="400" height="250">
 
  
 # 👾 Alternate Reality Game (ARG) Overview

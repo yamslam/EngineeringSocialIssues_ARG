@@ -35,8 +35,8 @@ The second test was the autonomous driving component of the vehicle’s design. 
 
 Students competed for the best cost-to-performance ratio by completing the aforementioned set of obstacle courses. Students had two opportunities to try the course and the highest of the two earned scores was taken into consideration for their total score. Students were encouraged to make tweaks between attempts but were not allowed to make major adjustments to the vehicle. The final scores of both obstacle courses were added together and the total cost of the student team’s vehicle was then divided by this value to obtain the final cost-to-performance ratio. 
 
-<img src="https://github.com/user-attachments/assets/8ec7c0a8-a153-49ae-991e-38ae337ca9d1">
-<img src="https://github.com/user-attachments/assets/faa1bb15-9146-4aa1-8bc1-0276a418518c">
+<img src="https://github.com/user-attachments/assets/8ec7c0a8-a153-49ae-991e-38ae337ca9d1" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/faa1bb15-9146-4aa1-8bc1-0276a418518c" width="300" height="300">
 
 There were certain events in the game that the students could choose to participate in which could influence student team’s spending during the ARG. As a part of the game, there were three fictional stakeholders which prompted students to make judgments which would impact their project. These judgments were designed to look like emails from each of the stakeholders. The students would then choose a response and write an email back to the stakeholder explaining their choice. Some of the judgments had requirements that students needed to fulfill should they have chosen a certain option during the judgments. The judgments can be found as exported Qualtrics survey questions here (LINK).
 
